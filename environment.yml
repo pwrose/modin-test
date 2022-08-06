@@ -1,0 +1,9 @@
+name: modin-test 
+  
+channels:
+  - conda-forge
+  - anaconda
+
+dependencies:
+  - jupyterlab
+  - modin-dask 
